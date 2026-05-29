@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Body Mass Index calculator<br><br>🌱 I’m currently learning Web Design, Advanced UI/UX & Web Accessibility (WAI-ARIA)<br><br>👨‍💻 All of my projects are available at https://marianaongay17.github.io/<br><br>💬 Ask me about Backend Development, Frontend Basics & Custom Styling, Database Management<br><br>📫 How to reach me marianaongay.01@gmail.com<br><br>
+🔭 I’m currently working on "Body Mass Index calculator": https://github.com/MarianaOngay17/bmi-calculator.git <br><br>🌱 I’m currently learning Web Design, Advanced UI/UX & Web Accessibility (WAI-ARIA)<br><br>👨‍💻 All of my projects are available at https://marianaongay17.github.io/<br><br>💬 Ask me about Backend Development, Frontend Basics & Custom Styling, Database Management<br><br>📫 How to reach me marianaongay.01@gmail.com<br><br>
 
 
 ## 🌐 Socials:
