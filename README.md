@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on: 
+🔭 I’m currently working on Tic Tac Toe Game: https://github.com/MarianaOngay17/tic-tac-toe-game
 <br><br>🌱 I’m currently learning Web Design, Advanced UI/UX & Web Accessibility (WAI-ARIA)<br><br>👨‍💻 All of my projects are available at https://marianaongay17.github.io/<br><br>💬 Ask me about Backend Development, Frontend Basics & Custom Styling, Database Management<br><br>📫 How to reach me marianaongay.01@gmail.com<br><br>
 
 
